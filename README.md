@@ -113,16 +113,6 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DeveloperSachin279&theme=algolia&no-frame=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
