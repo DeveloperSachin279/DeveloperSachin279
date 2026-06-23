@@ -27,13 +27,13 @@ Education:
   AI & Data Science Engineering
 
 Location:
-  Bhopal 🇮🇳
+  Bhopal , 🇮🇳dia
 
 Currently Learning:
-  AI
+  AI & ML
   Full Stack Development
   Flutter
-
+  DSA
 Interests:
   AI
   SaaS
